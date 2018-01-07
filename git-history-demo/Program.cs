@@ -15,6 +15,9 @@ namespace git_history_demo
         // C8 on hotfix
         public static void Main(string[] args)
         {
+            // C5 on feature1
+            // C6 on feature1
+            // C0 on feature1
             BuildWebHost(args).Run();
         }
 

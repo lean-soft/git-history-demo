@@ -12,6 +12,7 @@ namespace git_history_demo.Controllers
     {
         public IActionResult Index()
         {
+            // C6 on feature1
             return View();
         }
 

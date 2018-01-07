@@ -13,6 +13,7 @@ namespace git_history_demo
     {
         public Startup(IConfiguration configuration)
         {
+            // C5 on feature1
             Configuration = configuration;
         }
 
