@@ -12,6 +12,7 @@ namespace git_history_demo
 {
     public class Program
     {
+        // C8 on hotfix
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();

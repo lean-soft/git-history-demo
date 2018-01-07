@@ -22,6 +22,7 @@ namespace git_history_demo
         public void ConfigureServices(IServiceCollection services)
         {
             // C7 on hotfix
+            // C8 on hotfix
             services.AddMvc();
         }
 
