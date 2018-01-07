@@ -17,6 +17,7 @@ namespace git_history_demo.Controllers
 
         public IActionResult About()
         {
+            // C7 on hotfix
             ViewData["Message"] = "Your application description page.";
 
             return View();
