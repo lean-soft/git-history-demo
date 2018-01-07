@@ -15,6 +15,7 @@ namespace git_history_demo
         public static void Main(string[] args)
         {
             // C5 on feature1
+            // C6 on feature1
             BuildWebHost(args).Run();
         }
 
